@@ -1,4 +1,4 @@
-This repository demonstrates:
+# This repository demonstrates:
 
 * familiarity with **HTML syntax** and various **CSS selectors** 
 * use of **Vanilla JavaScript** to create a web application connected with a server and database
@@ -7,7 +7,7 @@ This repository demonstrates:
 * Ability to set up and seed a database using **mongoDB**
 * meaningfully-named and convention-abiding functions and variables to ensure **clean code**
 
-#To run the app:
+# To run the app:
 
 * download all files to a local repository
 * in terminal: npm install
